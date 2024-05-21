@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hex-rgb-converter/static/css/main.18ac96dc.css",
+    "main.js": "/ra-hex-rgb-converter/static/js/main.32fbafff.js",
+    "index.html": "/ra-hex-rgb-converter/index.html",
+    "main.18ac96dc.css.map": "/ra-hex-rgb-converter/static/css/main.18ac96dc.css.map",
+    "main.32fbafff.js.map": "/ra-hex-rgb-converter/static/js/main.32fbafff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18ac96dc.css",
+    "static/js/main.32fbafff.js"
+  ]
+}
